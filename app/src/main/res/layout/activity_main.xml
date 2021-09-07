@@ -75,6 +75,7 @@
         android:layout_width="200dp"
         android:layout_height="20dp"
         android:layout_marginStart="32dp"
+        android:max="30"
         app:layout_constraintBottom_toBottomOf="@+id/tvTipPerchantage"
         app:layout_constraintStart_toEndOf="@+id/tvTipPerchantage"
         app:layout_constraintTop_toTopOf="@+id/tvTipPerchantage" />
